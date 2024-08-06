@@ -1,7 +1,4 @@
 === Word Recuse ===
-Contributers: Siddh Parikh,  Nuran Syed, Yuan Zhang and Shaina Todi
-Version: 1.0
-Tested up to: 1.0
 
 === Introduction ===
 Word Rescue is a game to enhance motivation and retention among young English learners and college students. Key features include 4 levels of increasing difficulty, along with an additional, ‘challenge level’ for veteran players. The game utilizes captivating animation and photography, incorporating a time-ticking bomb to create an engaging experience. The user's proficiency in English determines their level, and points are earned for correct answers. Users are tasked to select the correctly spelled word in order to cut the right wire and prevent the bomb from exploding. When a user chooses a wrong answer, they lose a life and receive feedback through a fail sound effect. On losing all their lives, the bomb explodes and user is prompted to play again.
@@ -43,5 +40,5 @@ After completing each level, you can save your score and see it on our scoreboar
 Use the keyboard shortcuts mentioned at the bottom of the screens for shortcuts. 
 
 
-For further inquires contact our business email sparik3@uwo.ca
+For further inquires contact our business email shaina@todi89.com
 =============================================================================================
